@@ -5,10 +5,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=MECHATRONICS%20ENGINEERING&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<h1 align="center">Hi, I'm YOUR NAME</h1>
+<h1 align="center">Hi, I'm BEATRIZ MAGALHAES </h1>
 
 <h3 align="center">
-Mechatronics Engineering Student | CAD Designer | PLC Programmer | Electronics Enthusiast
+Mechatronics Engineering Student | CAD Designer | PLC Programmer 
 </h3>
 
 ---
@@ -42,9 +42,6 @@ Explain:
   <img src="YOUR_IMAGE_LINK" width="500"/>
 </p>
 
-### Project Video
-
-[Click Here to Watch Project Video](YOUR_VIDEO_LINK)
 
 ## Programmable Logic Controllers 
 - C++
@@ -68,9 +65,6 @@ Explain:
   <img src="YOUR_IMAGE_LINK" width="500"/>
 </p>
 
-### Project Video
-
-[Click Here to Watch Project Video](YOUR_VIDEO_LINK)
 
 ## Guitar Tuner Project 
 - Circuit Analysis
@@ -94,9 +88,6 @@ Explain:
   <img src="YOUR_IMAGE_LINK" width="500"/>
 </p>
 
-### Project Video
-
-[Click Here to Watch Project Video](YOUR_VIDEO_LINK)
 
 ## Hovercraft Project (Intro to Engineering)
 - Ladder Logic
@@ -120,10 +111,6 @@ Explain:
 <p align="center">
   <img src="YOUR_IMAGE_LINK" width="500"/>
 </p>
-
-### Project Video
-
-[Click Here to Watch Project Video](YOUR_VIDEO_LINK)
 
 
 
