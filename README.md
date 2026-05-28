@@ -183,6 +183,7 @@ Outcome:
   <img src="GANTT CHART.png" width="500"/>
   <img src="CAD_HOVER.png" width="500"/>
   <img src="YOUR_IMAGE_LINK" width="500"/>
+  <img src="Captura de tela 2026-05-28 005116.png" width="500"/>
 </p>
 
 # Resume
