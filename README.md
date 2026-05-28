@@ -186,12 +186,11 @@ Outcome:
   <img src="Hovercraft_CAD.png" width="500"/>
   <img src="GANTT CHART.png" width="500"/>
   <img src="CAD_HOVER.png" width="500"/>
-  <img src="YOUR_IMAGE_LINK" width="500"/>
   <img src="Captura de tela 2026-05-28 005116.png" width="500"/>
 </p>
 
 # Resume
-[Download My Resume](Beatriz_Magalhaes_Resume.pdf)
+[Download My Resume](Resume_Magalhaes.pdf)
 
 # Contact Information
 
