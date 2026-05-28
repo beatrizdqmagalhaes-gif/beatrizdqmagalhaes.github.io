@@ -179,7 +179,7 @@ Outcome:
 </p>
 
 # Resume
-Resume_Magalhaes.pdf
+[Download My Resume](Beatriz_Magalhaes_Resume.pdf)
 
 # Contact Information
 
