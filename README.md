@@ -125,7 +125,7 @@ Outcome:
 ### Project Images
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK" width="500"/>
+  <img src="Captura de tela 2026-05-28 001130.png" width="500"/>
 </p>
 
 ## Hovercraft Project
