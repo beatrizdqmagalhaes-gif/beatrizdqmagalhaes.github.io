@@ -178,13 +178,16 @@ Outcome:
   <img src="YOUR_IMAGE_LINK" width="500"/>
 </p>
 
+# Resume
+
+
 # Contact Information
 
 ## Email
 beatrizdqmagalhaes@gmail.com
 
 ## LinkedIn
-https://linkedin.com/in/bqmagalhaes<img width="300" height="88" alt="image" src="https://github.com/user-attachments/assets/67d2d8bf-acd3-4f87-8946-73514a6b9ad6" />
+https://linkedin.com/in/bqmagalhaes
 
 
 ## Portfolio Website
@@ -195,11 +198,11 @@ https://beatrizdqmagalhaes.github.io
 # GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beatrizdqmagalhaes&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beatrizdqmagalhaes&theme=tokyonight" />
 </p>
 
 ---
