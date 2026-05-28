@@ -24,7 +24,7 @@ I am an international Brazilian Kent State Mechatronics Engineering student focu
 ## CAD Projects 
 
 Software Used:
-Autodesk Inventor
+Autodesk Inventor and
 SolidWorks
 
   
