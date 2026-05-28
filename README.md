@@ -86,7 +86,9 @@ In this project, industrial automation labs were completed using NEMA panels, Li
 ### Project Images
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK" width="500"/>
+  <img src="PLC3.jpeg" width="400"/>
+  <img src="PLC2.jpeg" width="400"/>
+  <img src="PLC.png" width="400"/>
 </p>
 
 ## Guitar Tuner Project 
