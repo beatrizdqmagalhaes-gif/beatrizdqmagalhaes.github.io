@@ -179,7 +179,7 @@ Outcome:
 </p>
 
 # Resume
-
+Resume_Magalhaes.pdf
 
 # Contact Information
 
