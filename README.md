@@ -178,6 +178,10 @@ Outcome:
 ### Project Images
 
 <p align="center">
+  <img src="FINAL DRAWING.png" width="500"/>
+  <img src="Hovercraft_CAD.png" width="500"/>
+  <img src="GANTT CHART.png" width="500"/>
+  <img src="CAD_HOVER.png" width="500"/>
   <img src="YOUR_IMAGE_LINK" width="500"/>
 </p>
 
