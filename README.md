@@ -128,7 +128,7 @@ Outcome:
 
 <p align="center">
   <img src="Captura de tela 2026-05-28 001130.png" width="500"/>
-  <img src="WhatsApp Image 2026-05-25 at 22.21.13" width="500"/>
+  <img src="ELECTRONICS.jpeg" width="500"/>
 </p>
 
 ## Hovercraft Project
