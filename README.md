@@ -2,7 +2,7 @@
 <!-- HEADER BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=MECHATRONICS%20ENGINEERING&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=MECHATRONICS%20ENGINEER&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <h1 align="center">Hi, I'm BEATRIZ MAGALHAES </h1>
