@@ -73,7 +73,11 @@ Outcome:
 ### Project Images
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK" width="500"/>
+  <img src="BRACKET_CAD.png" width="500"/>
+  <img src="Machine Design_CAD.png" width="500"/>
+  <img src="SCOOTER_CAD.png" width="500"/>
+  <img src="SCOOTER_CAD_EXPOD.png" width="500"/>
+  <img src="PIXAR_LAMP.png" width="500"/>
 </p>
 
 
